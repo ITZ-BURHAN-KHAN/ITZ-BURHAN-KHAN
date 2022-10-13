@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m Burhan Khan and I,m a Computer Science Student from Pakistan
+- 👋 Hello there, I’m Burhan Khan and I,m a Computer Science Student.
 - 👀 I’m interested in Machines,Programming and Cyber Security.
 - 🌱 I’m currently learning Full Stack Development.
 - 📫 How to reach me . Just by Gmail ( Burhankhansodhar@gmail.com ).
