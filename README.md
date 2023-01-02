@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m Burhan Khan and I,m a Computer Science Student.
 - 👀 I’m interested in Machines,Programming and Cyber Security.
-- 🌱 I’m currently learning Full Software Development.
+- 🌱 I’m currently learning Software Development.
 - 📫 How to reach me . Just by Gmail ( Burhankhansodhar@gmail.com ).
 
 <!---
