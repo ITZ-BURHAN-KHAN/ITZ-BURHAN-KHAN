@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Burhan Khan and I,m a Computer Science Student.
-- 👀 I’m interested in Machines,Programming and Cyber Security.
+- 👀 I’m interested in Machines,Computers and Technology.
 - 🌱 I’m currently learning DevOps | Cloud | IT/Networking & Security Engineering.
 - 📫 How to reach me . Just by Gmail ( itzburhankhan@outlook.com ).
 
